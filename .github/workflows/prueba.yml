@@ -31,4 +31,4 @@ jobs:
       uses: docker/build-push-action@v6
       with:
         push: true
-        tags: ghcr.io/juanfercv/juancuaspud:latest
+        tags: ghcr.io/juanfercv/prueba_k8s:latest
